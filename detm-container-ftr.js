@@ -1,0 +1,2 @@
+// detm-container-ftr.js 32 prod
+var detmExecuteFooter=function(instance){("undefined"!=typeof ddo||"undefined"!=typeof jQuery&&!jQuery.isEmptyObject(ddo))&&ddo.pageLastLine(),void 0!==document.dispatchEvent&&document.dispatchEvent(new CustomEvent("detmScriptsReady",{detail:{loader:instance}}))};"undefined"==typeof detmLoader||0==detmLoader.finished?document.addEventListener("detmExecuteFooter",function(e){detmExecuteFooter(e.detail.loader)}):detmExecuteFooter(detmLoader);
